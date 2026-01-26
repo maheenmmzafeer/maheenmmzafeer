@@ -2,13 +2,8 @@
 
 🎓 **B.Sc. Information Technology & Computing Student** | 💻 Flutter & Python Developer | 📊 Data Enthusiast  
 
-I love **building mobile apps** 📱 and exploring how data can tell stories 📈. Currently, I’m developing a **Smart Inventory Tracking app** with [AlBa Company](https://www.albasmelter.com/en/), while learning **Power BI** 📊, automating workflows with **Python** 🐍 and leveling up my coding skills every day 💡.  
+I love **building mobile apps**📱 and exploring how data can tell stories📈. Currently, I’m developing a **Smart Inventory Tracking app** with [AlBa Company](https://www.albasmelter.com/en/), while learning **Power BI** 📊, automating workflows with **Python** 🐍 and improving my coding skills every day💡. I enjoy turning **ideas into functional apps**⚡, experimenting with UI/UX🎨, analyzing and visualizing data🔍 and exploring **new tech**🚀 through small projects🛠️ and continuous learning📚.  
 
-I enjoy turning **ideas into functional apps** ⚡ and experimenting with UI/UX 🎨.  
-Passionate about **data analysis**, visualization and uncovering patterns in datasets 🔍.  
-Always exploring **new tech** 🚀, building small projects 🛠️ and learning something new 📚.  
-
----
 
 ## 📫 Connect with me
 
