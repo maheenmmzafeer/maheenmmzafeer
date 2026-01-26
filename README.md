@@ -15,4 +15,3 @@ I love **building mobile apps** 📱 and exploring how data can tell stories �
 - [LinkedIn](https://www.linkedin.com/in/maheen-muhammad-zafeer-1ba325329/) 🔗  
 - [GitHub](https://github.com/maheenmmzafeer) 🔗  
 
----
