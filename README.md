@@ -1,4 +1,4 @@
-# 🎓 **B.Sc. Information Technology & Computing Student** | 💻 Flutter & Python Developer | 📊 Data Enthusiast  
+🎓 **B.Sc. Information Technology & Computing Student** | 💻 Flutter & Python Developer | 📊 Data Enthusiast  
 
 
 ## 💡 About Me
