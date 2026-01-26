@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there 👋 I'm Maheen
 
-<!--
-**maheenmmzafeer/maheenmmzafeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. Information Technology & Computing Student** | 💻 Flutter & Python Developer | 📊 Data Enthusiast  
 
-Here are some ideas to get you started:
+I love **building mobile apps** 📱 and exploring how data can tell stories 📈. Currently, I’m developing a **Smart Inventory Tracking app** with [AlBa Company](https://www.linkedin.com/company/alba-bh/), while learning **Power BI** 📊, automating workflows with **Python** 🐍 and leveling up my coding skills every day 💡.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 A bit about me
+
+- I enjoy turning **ideas into functional apps** ⚡ and experimenting with UI/UX 🎨.  
+- Passionate about **data analysis**, visualization and uncovering patterns in datasets 🔍.  
+- Always exploring **new tech** 🚀, building small projects 🛠️ and learning something new 📚.  
+
+---
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/maheen-muhammad-zafeer-1ba325329/) 🔗  
+- [GitHub](https://github.com/maheenmmzafeer) 🔗  
+
+---
