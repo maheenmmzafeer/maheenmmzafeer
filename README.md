@@ -1,7 +1,7 @@
+## 💡 About Me
+
 🎓 **B.Sc. Information Technology & Computing Student** | 💻 Flutter & Python Developer | 📊 Data Enthusiast  
 
-
-## 💡 About Me
 I love **building mobile apps** 📱 and exploring how data can tell stories. I enjoy turning **ideas into functional apps**, experimenting with UI/UX, analyzing and visualizing data and exploring **new tech** through small projects and continuous learning.  
 
 
