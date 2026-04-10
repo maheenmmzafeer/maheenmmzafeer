@@ -1,6 +1,8 @@
 ## 💡 About Me
 
-🎓 B.Sc. Information Technology & Computing Student | 💻 Software Engineer Intern • Flutter & Python Developer | 📊 Data Analysis • Mobile Development • Web Development
+🎓 B.Sc. Information Technology & Computing Student 
+💻 Software Engineer Intern • Flutter & Python Developer 
+📊 Data Analysis • Mobile Development • Web Development
 
 I enjoy building real world applications and turning ideas into functional products. My focus is on mobile and web development using Flutter, Python and modern frontend technologies. I also enjoy working with data, UI/UX design and continuously improving my skills through hands on projects and practical experience.
 
