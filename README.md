@@ -1,5 +1,5 @@
 <p align="center">
-  <b style="font-size: 70px;">Full-Stack & Mobile Developer • Flutter & Next.js</b>
+  <b style="font-size: 70px">Full-Stack & Mobile Developer • Flutter & Next.js</b>
 </p>
 
 ## 💡 About Me
