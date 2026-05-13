@@ -1,5 +1,3 @@
-<h1 align="center">Maheen Muhammad Zafeer<h1>
-  
 <h3 align="center">Full-Stack & Mobile Developer • Flutter & Next.js</h3>
 
 <p>
