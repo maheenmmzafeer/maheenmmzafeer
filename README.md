@@ -3,14 +3,13 @@
 <h3 align="center">Full-Stack & Mobile Developer • Flutter & Next.js</h3>
 
 <p>
-  I build mobile and web applications that combine clean design, solid architecture and practical functionality.
-  My primary focus is cross-platform mobile development with Flutter and full-stack web development with Next.js, React and TypeScript.
+  I build cross-platform mobile and full-stack web applications with Flutter, Next.js, React, TypeScript and Supabase.
 </p>
 
 <p align="center">
   <a href="https://maheen-muhammad-zafeer-portfolio.vercel.app/"><b>🌐 Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/maheen-muhammad-zafeer-1ba325329/"><b>💼 LinkedIn</b></a> •
-  <a href="https://github.com/maheenmmzafeer"><b>🐙 GitHub</b></a>
+  <a href="https://github.com/maheenmmzafeer"><b>✨ GitHub</b></a>
 </p>
 
 ---
@@ -18,10 +17,9 @@
 ## 💡 About Me
 
 - 📱 Building cross-platform mobile applications with Flutter
-- 💻 Developing full-stack web applications with Next.js and React
+- 💻 Developing web applications with Next.js and React
 - 🗄️ Working with Supabase, PostgreSQL and relational databases
 - 🐍 Using Python and Java for backend development and problem solving
-- 🎨 Creating intuitive and polished user experiences
 
 I enjoy turning ideas into functional products and continuously improving my skills through hands-on projects and real-world development experience.
 
