@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer • Mobile & Full-Stack Developer</h3>
 
-<p align="center">
+<p>
   I specialize in building scalable digital ecosystems that merge complex backend logic with beautiful, intuitive frontend design. My expertise spans industrial-scale mobile architecture with Flutter and high-performance full-stack web applications using Next.js.
 </p>
 
@@ -34,11 +34,4 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheenmmzafeer&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=88dec7&icon_color=c4b1ed&text_color=d0d0d0" alt="Maheen's GitHub Stats" />
-</p>
-
 
