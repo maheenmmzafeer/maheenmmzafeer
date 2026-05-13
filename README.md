@@ -1,37 +1,59 @@
-<h1 align="center">Hi there, I'm Maheen! 👋</h1>
+<h1 align="center">Hi, I'm Maheen 👋</h1>
 
-<h3 align="center">Software Engineer • Mobile & Full-Stack Developer</h3>
+<h3 align="center">Full-Stack & Mobile Developer • Flutter & Next.js</h3>
 
-<p>
-  I specialize in building scalable digital ecosystems that merge complex backend logic with beautiful, intuitive frontend design. My expertise spans industrial-scale mobile architecture with Flutter and high-performance full-stack web applications using Next.js.
+<p align="center">
+  I build mobile and web applications that combine clean design, solid architecture and practical functionality.
+  My primary focus is cross-platform mobile development with Flutter and full-stack web development with Next.js, React and TypeScript.
 </p>
 
 <p align="center">
-  <a href="https://maheen-muhammad-zafeer-portfolio.vercel.app/"><b>🌐 View My Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/maheen-muhammad-zafeer-1ba325329/"><b>🤝 Connect on LinkedIn</b></a>
+  <a href="https://maheen-muhammad-zafeer-portfolio.vercel.app/"><b>🌐 Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/maheen-muhammad-zafeer-1ba325329/"><b>💼 LinkedIn</b></a> •
+  <a href="https://github.com/maheenmmzafeer"><b>🐙 GitHub</b></a>
 </p>
 
 ---
 
-## ⚡ Engineering Focus
+## 💡 About Me
 
-- 📱 **Mobile Architecture:** Building production-grade, state-driven mobile applications with **Flutter**.
-- 💻 **Full-Stack Web:** Architecting responsive, high-performance web experiences with **Next.js 15, React, and TypeScript**.
-- 🗄️ **Backend & Systems:** Designing relational databases and real-time data synchronization using **Supabase** and **PostgreSQL**.
-- 🎨 **UI/UX Engineering:** Implementing modern design systems using Tailwind CSS, Framer Motion and GSAP for immersive interactions.
+- 📱 Building cross-platform mobile applications with Flutter
+- 💻 Developing full-stack web applications with Next.js and React
+- 🗄️ Working with Supabase, PostgreSQL and relational databases
+- 🐍 Using Python and Java for backend development and problem solving
+- 🎨 Creating intuitive and polished user experiences
 
-## 🛠️ Tech Stack & Tools
+I enjoy turning ideas into functional products and continuously improving my skills through hands-on projects and real-world development experience.
 
-**Frontend & Mobile**  
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+---
 
-**Backend & Data**  
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+## ⚡ Current Focus
 
+- Production-ready mobile applications with Flutter
+- Full-stack development with Next.js and TypeScript
+- Backend systems with Supabase and PostgreSQL
+- Modern UI development with Tailwind CSS, Framer Motion and GSAP
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://maheen-muhammad-zafeer-portfolio.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/maheen-muhammad-zafeer-1ba325329/
+- 🐙 GitHub: https://github.com/maheenmmzafeer
