@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maheen 👋</h1>
+<h2 align="center">Hi, I'm Maheen 👋</h1>
 
 <h3 align="center">Full-Stack & Mobile Developer • Flutter & Next.js</h3>
 
