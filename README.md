@@ -1,4 +1,6 @@
-<h2 align="center">Full-Stack & Mobile Developer • Flutter & Next.js</h2>
+<p align="center">
+  <b style="font-size: 22px;">Full-Stack & Mobile Developer • Flutter & Next.js</b>
+</p>
 
 ## 💡 About Me
 <p>
