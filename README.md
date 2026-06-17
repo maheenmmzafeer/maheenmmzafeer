@@ -7,7 +7,7 @@ I build practical web and mobile applications using technologies such as Flutter
 
 I enjoy developing real-world software solutions, improving user workflows and working across both frontend and mobile application development.
 
-- Building mobile applications with Flutter and React Native
+- Building mobile applications with React Native and Flutter
 - Developing web applications with React, Next.js, TypeScript and Tailwind CSS
 - Working with Supabase, PostgreSQL and relational databases
 - Exploring backend development with Node.js, Express.js, Python and Java
