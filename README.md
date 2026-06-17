@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer</h1>
+<h2 align="center">Software Developer</h2>
 <h3 align="center">Building Web & Mobile Applications</h3>
 
 ## About Me
